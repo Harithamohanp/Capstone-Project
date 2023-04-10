@@ -8,7 +8,7 @@ based on two scenarios
 1) Data Collection
 2) Data preprocessing
 3) Data exploration and visualization
-4)Sentiment analysis
+4) Sentiment analysis
 5) Classification on customer retention
 6) Time series analysis on demand of products and sentiments
 7)Clustering of products based on similarity of sales and quality
