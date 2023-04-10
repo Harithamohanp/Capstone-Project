@@ -3,7 +3,8 @@ Developed an automated system to analyse and monitor an enormous number of Amazo
 based on two scenarios
 1) Inventory optimization and demand forecasting
 2) Customer Retention and Sentiment forecasting
-Methods used to reach the objectives
+ 
+### Methods used to reach the objectives
 1) Data Collection
 2) Data preprocessing
 3) Data exploration and visualization
