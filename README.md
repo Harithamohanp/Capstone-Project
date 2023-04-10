@@ -12,4 +12,5 @@ Methods used to reach the objectives
 6) Time series analysis on demand of products and sentiments
 7)Clustering of products based on similarity of sales and quality
 8) Model evaluation
+
 By doing this project i am able to set high demanded products in the inventory.This products have increase in demand and consistent growth for next 1 year.
